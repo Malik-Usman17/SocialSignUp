@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "831125842871",
+    "project_id": "socialtestsignup",
+    "storage_bucket": "socialtestsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831125842871:android:2da1fde6905d079d9b9632",
+        "android_client_info": {
+          "package_name": "com.testsocialsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831125842871-o704673869q3q4cb40o36bjajb400hq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testsocialsignup",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "831125842871-a8vclspqoqeok1frgj4spv8vjpe9jsae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpWh2_9-IalxkbBjAInwAN-PaVWiDQak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831125842871-0r8u3ql7mqlqk0lknocfjlsur1eofpke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
